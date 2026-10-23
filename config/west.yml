@@ -12,5 +12,6 @@ manifest:
     #- name: hammerbeam-slideshow          #new entry
       #remote: gpeye                       #new entry
       #revision: main                      #new entry 
+      
   self:
     path: config
